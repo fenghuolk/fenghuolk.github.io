@@ -99,10 +99,10 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "Apple",
-        href: "https://apple.com"
+        title: "铁蕾的博客",
+        href: "http://zhangtielei.com/"
     },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "刘正阳",
+        href: "https://liuzhengyang.github.io/"
     }
 ]
